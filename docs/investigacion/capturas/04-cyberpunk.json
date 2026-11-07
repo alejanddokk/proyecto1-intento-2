@@ -1,0 +1,31 @@
+{
+  "id": "04-cyberpunk",
+  "url": "https://www.cyberpunk.net/us/en/",
+  "date": "2026-11-05",
+  "viewport": {
+    "width": 1280,
+    "height": 800
+  },
+  "captures": [
+    "04-cyberpunk-inicio.jpg",
+    "04-cyberpunk-listo.jpg",
+    "04-cyberpunk-regreso.jpg",
+    "04-cyberpunk-rueda.jpg",
+    "04-cyberpunk-scroll.jpg",
+    "04-cyberpunk-vuelta.jpg"
+  ],
+  "notes": [],
+  "title": "Home of the Cyberpunk 2077 universe — games, anime & more",
+  "resolvedUrl": "https://www.cyberpunk.net/us/en/",
+  "media": {
+    "canvases": 0,
+    "videos": [
+      {
+        "readyState": 1,
+        "paused": true,
+        "currentTime": 0
+      }
+    ],
+    "height": 3246
+  }
+}

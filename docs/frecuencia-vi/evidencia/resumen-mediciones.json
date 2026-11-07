@@ -1,0 +1,25 @@
+{
+  "ob4": {
+    "samples": 10,
+    "wall_seconds": 8.24,
+    "constant_scroll_y": true,
+    "scroll_y": 1890,
+    "media_start": 1.267012,
+    "media_end": 8.925188
+  },
+  "gsap": {
+    "positions": [
+      2560,
+      2720,
+      2880,
+      3040,
+      3200,
+      3040,
+      2880,
+      2720,
+      2560
+    ],
+    "symmetric_style_matches": true,
+    "method": "UI scroll input + read-only computed styles; not FPS measurement"
+  }
+}

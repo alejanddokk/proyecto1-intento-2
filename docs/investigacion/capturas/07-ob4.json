@@ -1,0 +1,16 @@
+{
+  "id": "07-ob4",
+  "url": "https://teenage.engineering/products/ob-4",
+  "date": "2026-11-05",
+  "viewport": {
+    "width": 1280,
+    "height": 800
+  },
+  "captures": [
+    "07-ob4-y0.jpg",
+    "07-ob4-y1400.jpg"
+  ],
+  "notes": [
+    "Apertura inspeccionada; muestra y1400 en carga. No se verifico animacion interactiva del dial."
+  ]
+}

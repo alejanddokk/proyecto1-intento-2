@@ -1,0 +1,33 @@
+{
+  "id": "01-rockstar",
+  "url": "https://www.rockstargames.com/VI",
+  "date": "2026-11-05",
+  "viewport": {
+    "width": 1280,
+    "height": 800
+  },
+  "captures": [
+    "01-rockstar-inicio.jpg",
+    "01-rockstar-regreso.jpg",
+    "01-rockstar-scroll.jpg"
+  ],
+  "notes": [],
+  "title": "Grand Theft Auto VI - Rockstar Games",
+  "resolvedUrl": "https://www.rockstargames.com/VI",
+  "media": {
+    "canvases": 3,
+    "videos": [
+      {
+        "readyState": 0,
+        "paused": true,
+        "currentTime": 0
+      },
+      {
+        "readyState": 0,
+        "paused": true,
+        "currentTime": 0
+      }
+    ],
+    "height": 8974
+  }
+}

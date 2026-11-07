@@ -1,0 +1,83 @@
+[
+  {
+    "bg": "rgb(14, 16, 15)",
+    "line": "matrix(0, 0, 0, 1, 0, 0)",
+    "paragraph": "matrix(0.212132, 0.212132, -0.212132, 0.212132, 0, 0)",
+    "wall": 1793905813714,
+    "y": 2560,
+    "inputPages": 0,
+    "file": "gsap-recorrido-00.png"
+  },
+  {
+    "bg": "rgb(25, 83, 27)",
+    "line": "matrix(0.25, 0, 0, 1, 0, 0)",
+    "paragraph": "matrix(0.666369, 0.229246, -0.229246, 0.666369, 0, 0)",
+    "wall": 1793905814656,
+    "y": 2720,
+    "inputPages": 0.2222222222,
+    "file": "gsap-recorrido-01.png"
+  },
+  {
+    "bg": "rgb(34, 131, 36)",
+    "line": "matrix(0.5, 0, 0, 1, 0, 0)",
+    "paragraph": "matrix(0.908106, 0.0894406, -0.0894406, 0.908106, 0, 0)",
+    "wall": 1793905816366,
+    "y": 2880,
+    "inputPages": 0.2222222222,
+    "file": "gsap-recorrido-02.png"
+  },
+  {
+    "bg": "rgb(38, 159, 41)",
+    "line": "matrix(0.75, 0, 0, 1, 0, 0)",
+    "paragraph": "matrix(0.989026, 0.0121373, -0.0121373, 0.989026, 0, 0)",
+    "wall": 1793905817574,
+    "y": 3040,
+    "inputPages": 0.2222222222,
+    "file": "gsap-recorrido-03.png"
+  },
+  {
+    "bg": "rgb(40, 169, 43)",
+    "line": "matrix(1, 0, 0, 1, 0, 0)",
+    "paragraph": "matrix(1, 0, 0, 1, 0, 0)",
+    "wall": 1793905818898,
+    "y": 3200,
+    "inputPages": 0.2222222222,
+    "file": "gsap-recorrido-04.png"
+  },
+  {
+    "bg": "rgb(38, 159, 41)",
+    "line": "matrix(0.75, 0, 0, 1, 0, 0)",
+    "paragraph": "matrix(0.989026, 0.0121373, -0.0121373, 0.989026, 0, 0)",
+    "wall": 1793905820088,
+    "y": 3040,
+    "inputPages": -0.2222222222,
+    "file": "gsap-recorrido-05.png"
+  },
+  {
+    "bg": "rgb(34, 131, 36)",
+    "line": "matrix(0.5, 0, 0, 1, 0, 0)",
+    "paragraph": "matrix(0.908106, 0.0894406, -0.0894406, 0.908106, 0, 0)",
+    "wall": 1793905821387,
+    "y": 2880,
+    "inputPages": -0.2222222222,
+    "file": "gsap-recorrido-06.png"
+  },
+  {
+    "bg": "rgb(25, 83, 27)",
+    "line": "matrix(0.25, 0, 0, 1, 0, 0)",
+    "paragraph": "matrix(0.666369, 0.229246, -0.229246, 0.666369, 0, 0)",
+    "wall": 1793905822870,
+    "y": 2720,
+    "inputPages": -0.2222222222,
+    "file": "gsap-recorrido-07.png"
+  },
+  {
+    "bg": "rgb(14, 16, 15)",
+    "line": "matrix(0, 0, 0, 1, 0, 0)",
+    "paragraph": "matrix(0.212132, 0.212132, -0.212132, 0.212132, 0, 0)",
+    "wall": 1793905824036,
+    "y": 2560,
+    "inputPages": -0.2222222222,
+    "file": "gsap-recorrido-08.png"
+  }
+]

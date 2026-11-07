@@ -1,0 +1,22 @@
+{
+  "id": "06-bruno",
+  "url": "https://bruno-simon.com/",
+  "date": "2026-11-05",
+  "viewport": {
+    "width": 1280,
+    "height": 800
+  },
+  "captures": [
+    "06-bruno-inicio.jpg",
+    "06-bruno-regreso.jpg",
+    "06-bruno-scroll.jpg"
+  ],
+  "notes": [],
+  "title": "Bruno's",
+  "resolvedUrl": "https://bruno-simon.com/",
+  "media": {
+    "canvases": 1,
+    "videos": [],
+    "height": 800
+  }
+}

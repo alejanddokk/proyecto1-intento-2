@@ -1,0 +1,19 @@
+{
+  "beforeUtc": "2026-11-05T20:20:03.8579244Z",
+  "afterUtc": "2026-11-05T20:32:25.1903692Z",
+  "availableMiBBefore": 161.71,
+  "availableMiBAfter": 160.82,
+  "availableDeltaMiB": -0.89,
+  "systemCommitDeltaMiB": 36.9,
+  "processesTerminatedByAgent": 0,
+  "tabsOpenedThisStage": 0,
+  "heavyBrowserSessionsOpened": 0,
+  "newImageGenerations": 0,
+  "ownedCuaContextReset": true,
+  "webviewParentLookup": {
+    "ppid": 3452,
+    "name": "SearchApp",
+    "action": "left untouched"
+  },
+  "conclusion": "Memory pressure persists; no leak or causal attribution established."
+}

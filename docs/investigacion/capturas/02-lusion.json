@@ -1,0 +1,26 @@
+{
+  "id": "02-lusion",
+  "url": "https://lusion.co/",
+  "date": "2026-11-05",
+  "viewport": {
+    "width": 1280,
+    "height": 800
+  },
+  "captures": [
+    "02-lusion-estable.jpg",
+    "02-lusion-inicio.jpg",
+    "02-lusion-listo.jpg",
+    "02-lusion-regreso.jpg",
+    "02-lusion-rueda.jpg",
+    "02-lusion-scroll.jpg",
+    "02-lusion-vuelta.jpg"
+  ],
+  "notes": [],
+  "title": "Lusion - Award Winning 3D and Interactive Web Studio",
+  "resolvedUrl": "https://lusion.co/",
+  "media": {
+    "canvases": 3,
+    "videos": [],
+    "height": 800
+  }
+}

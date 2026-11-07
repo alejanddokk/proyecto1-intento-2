@@ -1,0 +1,105 @@
+{
+  "id": "03-apple",
+  "url": "https://www.apple.com/airpods-pro/",
+  "date": "2026-11-05",
+  "viewport": {
+    "width": 1280,
+    "height": 800
+  },
+  "captures": [
+    "03-apple-inicio.jpg",
+    "03-apple-regreso.jpg",
+    "03-apple-scroll.jpg",
+    "03-apple-y3500.jpg",
+    "03-apple-y5500.jpg"
+  ],
+  "notes": [],
+  "title": "AirPods Pro 3 - Apple",
+  "resolvedUrl": "https://www.apple.com/airpods-pro/",
+  "media": {
+    "canvases": 0,
+    "videos": [
+      {
+        "readyState": 4,
+        "paused": false,
+        "currentTime": 0.9017
+      },
+      {
+        "readyState": 0,
+        "paused": true,
+        "currentTime": 0
+      },
+      {
+        "readyState": 0,
+        "paused": true,
+        "currentTime": 0
+      },
+      {
+        "readyState": 0,
+        "paused": true,
+        "currentTime": 0
+      },
+      {
+        "readyState": 0,
+        "paused": true,
+        "currentTime": 0
+      },
+      {
+        "readyState": 0,
+        "paused": true,
+        "currentTime": 0
+      },
+      {
+        "readyState": 0,
+        "paused": true,
+        "currentTime": 0
+      },
+      {
+        "readyState": 0,
+        "paused": true,
+        "currentTime": 0
+      },
+      {
+        "readyState": 0,
+        "paused": true,
+        "currentTime": 0
+      },
+      {
+        "readyState": 0,
+        "paused": true,
+        "currentTime": 0
+      },
+      {
+        "readyState": 0,
+        "paused": true,
+        "currentTime": 0
+      },
+      {
+        "readyState": 0,
+        "paused": true,
+        "currentTime": 0
+      },
+      {
+        "readyState": 0,
+        "paused": true,
+        "currentTime": 0
+      },
+      {
+        "readyState": 0,
+        "paused": true,
+        "currentTime": 0
+      },
+      {
+        "readyState": 0,
+        "paused": true,
+        "currentTime": 0
+      },
+      {
+        "readyState": 0,
+        "paused": true,
+        "currentTime": 0
+      }
+    ],
+    "height": 28900
+  }
+}
